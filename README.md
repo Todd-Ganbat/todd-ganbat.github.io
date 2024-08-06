@@ -1,10 +1,13 @@
 # Data Analyst
 
+#### Technical Skills: R, SQL, Power BI, Microsoft Excel
+
 ### Education
-Master of Business in Data Analytics
+Master of Business in Data Analytics | Monash University (_2023-2025_)
+Bachelor of Engineering in Chemical Engineering | NMIT (_2017-2021_)
 
 ### Work Experience 
-Operation Analyst @ Global Acetylene LLC (APR 2022 - JUNE 2023)     
+**Operation Analyst @ Global Acetylene LLC (_APR 2022 - JUNE 2023_)**     
 Global Acetylene LLC is the largest premier industrial gas manufacturer in Mongolia, has been providing a
 diverse range of gases to numerous industries since 2010, including mining, healthcare, and scientific
 laboratories.                                
@@ -18,7 +21,7 @@ laboratories.
 - Tracked key performance indicators (KPIs) related to production output, equipment uptime,
  maintenance schedules, and operational efficiency
 
-Chemical Engineer @ Global Acetylene LLC (JUN 2021 - APR 2022)
+**Chemical Engineer @ Global Acetylene LLC (_JUN 2021 - APR 2022_)**  
 - Analyzed production processes and identified opportunities for optimization
 - Engaged in engineering projects and general maintenance
 - Worked in the engineering team to troubleshoot technical issues 
