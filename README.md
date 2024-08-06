@@ -3,7 +3,7 @@
 ### Education
 Master of Business in Data Analytics
 
-###Work Experience 
+### Work Experience 
 Operation Analyst @ Global Acetylene LLC  APR 2022 - JUNE 2023     
 Global Acetylene LLC is the largest premier industrial gas manufacturer in Mongolia, has been providing a
 diverse range of gases to numerous industries since 2010, including mining, healthcare, and scientific
