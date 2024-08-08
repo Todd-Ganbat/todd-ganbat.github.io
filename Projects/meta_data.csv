@@ -1,0 +1,35 @@
+VARLABEL,VARNAME,DESCRIPTION,TYPE,FORMAT
+Year,Year,The calendar year corresponding to the NBA season.,DATE,MMYYYY
+Age,Age,The age of the player during the specified NBA season.,NUMERIC,9(2)
+Tm,Team,The abbreviation for the team the player is associated with.,CATEGORICAL,X(3)
+Lg,League,The abbreviation for the basketball league.,CATEGORICAL,X(3)
+Pos,Postion,The player's primary position on the basketball court.,CATEGORICAL,X(2)
+G,Game,The number of games the player participated in during the season.,NUMERIC,9(2)
+GS,Game Started,The number of games the player started.,NUMERIC,9(2)
+MP,Minutes Played,The total minutes played by the player during the season.,NUMERIC,9(2).9
+FG,Field Goal,The total number of field goals made by the player.,NUMERIC,9(2).9
+FGA,Field Goal Attempted,The total number of field goal attempts by the player.,NUMERIC,9(2).9
+Fieldgoal_per,Field Goal Percentage,The player's field goal percentage,NUMERIC,9(2).999
+3P,Three Point,The total number of three-point field goals made by the player.,NUMERIC,9(2).9
+3PA,Three Point Attempt,The total number of three-point field goal attempts by the player.,NUMERIC,9(2).9
+Threepoint_per,Three Point Percentage,The player's three-point field goal percentage,NUMERIC,9(2).999
+2P,Two Point,The total number of two-point field goals made by the player.,NUMERIC,9(2).9
+2PA,Two Point Attempt,The total number of two-point field goal attempts by the player.,NUMERIC,9(2).9
+2P%,Two Point Percentage,The player's two-point field goal percentage ,NUMERIC,9(2).999
+Eff_fg_per,Effective Field Goal Percentage,The player's effective field goal percentage,NUMERIC,9(2).999
+FT,Free Throw,The total number of free throws made by the player.,NUMERIC,9(2).9
+FTA,Free Throw Attempt,The total number of free throw attempts by the player.,NUMERIC,9(2).9
+FT%,Free Throw Percentage,The player's free throw percentage,NUMERIC,9(2).999
+ORB,Offensive Rebound,The total number of offensive rebounds grabbed by the player.,NUMERIC,9(2).9
+DRB,Defensive Rebound,The total number of defensive rebounds grabbed by the player.,NUMERIC,9(2).9
+TRB,Total Rebound,The total number of rebounds (offensive and defensive) grabbed by the player.,NUMERIC,9(2).9
+AST,Assist,The total number of assists made by the player.,NUMERIC,9(2).9
+STL,Steal,The total number of steals made by the player.,NUMERIC,9(2).9
+BLK,Block,The total number of blocks made by the player.,NUMERIC,9(2).9
+TOV,Turnover,The total number of turnovers committed by the player.,NUMERIC,9(2).9
+PF,Personal Foul,The total number of personal fouls committed by the player.,NUMERIC,9(2).9
+PTS,Points,The total number of points scored by the player.,NUMERIC,9(2).9
+Awards,Awards,Any awards or recognitions received by the player during the season.,CATEGORICAL,Alphanumeric
+W,Win,The total number of wins by the Golden State Warriors in the season.,NUMERIC,9(1)
+L,Loss,The total number of losses by the Golden State Warriors in the season.,NUMERIC,9(1)
+Winloss_per,Win/Loss Percentage,The win-loss percentage of the Golden State Warriors in the season.,NUMERIC,9(2).999
